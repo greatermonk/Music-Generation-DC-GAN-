@@ -14,3 +14,5 @@ A Deep Convolutional GAN network used to generate music using the Bach Chorale D
 
 ## [**model.keras**](https://github.com/greatermonk/Music-Generation-DC-GAN-/blob/main/model.keras)
 ### **The `tensorflow.keras` model stored in *`.keras`* format generated after 500 epochs**
+
+## [**google drive**](https://drive.google.com/drive/folders/1uXUX145J5OUd3nqeEi5LHTyRThbIcrYp?usp=sharing)
